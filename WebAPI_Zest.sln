@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI_Zest", "ProductsApp\WebAPI_Zest.csproj", "{AA94BDA3-486B-4022-A534-E1966548B363}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRInnova.Data", "..\..\..\source\repos\HRInnova.Data\HRInnova.Data.csproj", "{3D9A3330-2054-48BE-8934-ABEE5EACA450}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA94BDA3-486B-4022-A534-E1966548B363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA94BDA3-486B-4022-A534-E1966548B363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA94BDA3-486B-4022-A534-E1966548B363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA94BDA3-486B-4022-A534-E1966548B363}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D9A3330-2054-48BE-8934-ABEE5EACA450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D9A3330-2054-48BE-8934-ABEE5EACA450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D9A3330-2054-48BE-8934-ABEE5EACA450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D9A3330-2054-48BE-8934-ABEE5EACA450}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {466AD394-076F-4293-8E2B-52F660DB229F}
+	EndGlobalSection
+EndGlobal
